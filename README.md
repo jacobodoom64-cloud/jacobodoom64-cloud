@@ -14,7 +14,7 @@ infrastructure where skipping it isn't an option.
   cannot reach production
 - Self-healing multi-region AWS infrastructure with an AI model that 
   predicts failures before they happen
-- A zero-trust platform I've pen tested myself — findings, fixes, 
+- A zero-trust platform I've pen tested myself; findings, fixes, 
   and all
 - A serverless AI data platform built around real Ghanaian 
   agricultural data
@@ -28,4 +28,4 @@ GitHub Actions, ArgoCD, Falco, Trivy
 
 - LinkedIn: linkedin.com/in/jacob-odoom-788302311
 - Email: jacobodoom64@gmail.com
-- Accra, Ghana 🇬🇭
+- Accra, Ghana GH
