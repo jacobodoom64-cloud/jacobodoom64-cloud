@@ -4,7 +4,7 @@ I'm a DevSecOps and AI Infrastructure Engineer based in Accra, Ghana.
 
 I came up through IT systems and networks before moving into 
 cloud and DevSecOps. That background taught me one thing 
-clearly — most breaches don't happen because security was 
+clearly, most breaches don't happen because security was 
 impossible. They happen because it was skipped. I build 
 infrastructure where skipping it isn't an option.
 
